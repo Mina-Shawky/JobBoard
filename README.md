@@ -138,7 +138,6 @@ The API will start on the configured local development URL.
 
 You can test the API endpoints using:
 
-- Swagger UI (if enabled in the project).
 - Postman.
 
 Test the main workflows:
